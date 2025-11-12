@@ -801,7 +801,7 @@ const checkWhatsAppConnection = (ctx, next) => {
       caption: `
 ⬡ CODE PAIRIG LU
 ╰➤ NOMOR  : ${phoneNumber} 
-╰➤ CODE   : <code>${formattedCode}</codw>
+╰➤ CODE   : <code>${formattedCode}</code>
 `,
        
    parse_mode: "HTML",
